@@ -2,8 +2,7 @@
 
 
 
-🎓 Bachelor of Science in Software Development (Kenya)  
-📍 Based in Nairobi 
+🎓 Bachelor of Science in Software Development 
 💡 Passionate about Machine Learning & Data Science 
 
 ---
