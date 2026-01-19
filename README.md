@@ -16,7 +16,8 @@ I believe in building data-driven solutions that make real-world impact  especia
 
 ## 🛠 Tech I Use
 
-- Python • scikit-learn • pandas • matplotlib • Flask  
+- Python • scikit-learn • pandas • matplotlib • Flask
+- Java
 - Jupyter Notebooks • HTML/CSS • Bootstrap  • Javascript
 - VS Code • Git/GitHub • Streamlit
 
